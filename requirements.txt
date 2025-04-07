@@ -1,0 +1,13 @@
+#  pip install -r requirements.txt
+
+numpy
+uvicorn
+dask[dataframe]
+flask
+flask-cors
+scikit-learn
+fastapi
+openpyxl
+pandas
+pydantic
+python-multipart
