@@ -5,8 +5,8 @@
 FastAPI 기반으로 RESTful API를 구현하며, 머신러닝(K-Means)을 활용하여 고객 유형을 파악합니다.
 
 ## 설치
-1. git clone <your-repo>
-2. cd <project-dir>
+1. git clone your-repo
+2. cd project-dir
 3. python -m venv venv
 4. source venv/bin/activate  # 윈도우: venv\Scripts\activate
 5. pip install -r requirements.txt
